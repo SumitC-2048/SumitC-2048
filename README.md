@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sumit</h1>
-<h3 align="center">I am a competitive programmer, starting my development journey.</h3><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35" vertical-align="bottom">
+<h1 align="left">Hi 👋, I'm Sumit</h1>
+<h3 align="left">I am a competitive programmer, starting my development journey.</h3><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35" vertical-align="bottom">
 
 <p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=SumitC-2048&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" /></p>
