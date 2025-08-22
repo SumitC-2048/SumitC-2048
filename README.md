@@ -1,25 +1,118 @@
-<h1 align="left">Hi 👋, I'm Sumit</h1>
-<h3 align="left">I am a competitive programmer, starting my development journey.</h3><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35" vertical-align="bottom">
+# Hi there! 👋 I'm Sumit
 
-<p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=SumitC-2048&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SumitC-2048&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&layout=compact" /></p></br>
-</p>
+### 🚀 Competitive Programmer & Aspiring Developer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/sumit_2048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sumit_2048" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sumit_2048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumit_2048" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sumit_2048" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sumit_2048" height="30" width="40" /></a>
+Welcome to my GitHub profile! I'm passionate about problem-solving through competitive programming and currently expanding my skills in full-stack development. Always excited to learn new technologies and tackle challenging problems!
 
+---
 
-</p>
+## 📊 GitHub Stats
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SumitC-2048&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitC-2048&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</div>
 
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumitC-2048&theme=radical&hide_border=true" alt="Sumit's GitHub Streak"/>
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  
+  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sumit_2048)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/sumit_2048)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/sumit_2048)
+  
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+<div align="center">
+  
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  &nbsp;&nbsp;
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  &nbsp;&nbsp;
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  
+</div>
+
+### Frontend Development
+<div align="center">
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  &nbsp;&nbsp;
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  &nbsp;&nbsp;
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  
+</div>
+
+### Backend Development
+<div align="center">
+  
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  &nbsp;&nbsp;
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  
+</div>
+
+### Databases
+<div align="center">
+  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  &nbsp;&nbsp;
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  
+</div>
+
+---
+
+## 🏆 Competitive Programming Journey
+
+- 🎯 **Focus Areas**: Data Structures, Algorithms, Problem Solving
+- 📈 **Goal**: Continuously improving problem-solving skills
+- 💡 **Philosophy**: Every problem is an opportunity to learn something new
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SumitC-2048&bg_color=0d1117&color=708090&line=708090&point=ff6b6b&area=true&hide_border=true" alt="Sumit's GitHub Activity Graph"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake eating my contributions"/>
+</div>
+
+---
+
+## 💭 Quote of the Day
+
+<div align="center">
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### Thanks for visiting! 😊
+  
+  ![](https://komarev.com/ghpvc/?username=SumitC-2048&color=brightgreen&style=flat-square)
+  
+</div>
